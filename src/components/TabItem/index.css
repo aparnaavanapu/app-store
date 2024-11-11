@@ -1,0 +1,18 @@
+.tab{
+    list-style-type:none;
+    margin:8px;
+
+}
+.tab-name{
+    color:#7b8794;
+    font-family:"Bree Serif";
+    font-size:18px;
+    border:none;
+    background-color:transparent;
+}
+.active-tab{
+    color: #2563eb;
+    border-bottom-style: solid;
+    border-bottom-color: #2563eb;
+
+}
